@@ -1,6 +1,6 @@
 # MyContosoCrafts
 
-Impelemented ConstosoCrafts website in ASP.NET MVC. 
+Implemented ConstosoCrafts website in ASP.NET MVC. 
 
 ASP.NET Core Playlist
 
