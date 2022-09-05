@@ -1,6 +1,6 @@
 # MyContosoCrafts
 
-Impelemented ConstosoCrafts website in ASP.NET MVC to demonstrate working knowledge of ASP.NET MVC. 
+Impelemented ConstosoCrafts website in ASP.NET MVC. 
 
 ASP.NET Core Playlist
 
